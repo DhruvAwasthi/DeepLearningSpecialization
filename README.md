@@ -1,7 +1,7 @@
 # Deep Learning Specialization by Andrew Ng (deeplearning.ai) on Coursera
 I would like to present my heartful thanks to instructor **Andrew Ng** for coming up with such a wonderful course & a wonderful explanation on the topics! I really learned a lot from you!
 
-This repository hosts the solution of all the weekly quizzes and programming assignments of all five courses in Deep Learning specialization by **deeplearning.ai** on Coursera.
+This repository contains the solution of all the weekly quizzes and programming assignments of all five courses in Deep Learning specialization by **deeplearning.ai** on Coursera.
 
 ---
 
